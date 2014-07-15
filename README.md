@@ -7,3 +7,5 @@ Mike can auto upgrade his capabilities and will be able to do a variety of thing
 Mike is capable of reminding you about pending tasks, planning to execute these tasks. Mike can keep track of groceries, laundry, people, appointments and several other things that easily slip from mind.
 
 Mike is present every where you go. He is present on your smartphone, desktop, web and wearables.
+
+Mike is inspired by the novel [The moon is a harsh mistress](http://en.wikipedia.org/wiki/The_Moon_Is_a_Harsh_Mistress)
